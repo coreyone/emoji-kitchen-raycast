@@ -4,10 +4,18 @@
   "title": "Emoji Kitchen",
   "description": "Browse and copy Google Emoji Kitchen mashups.",
   "icon": "icon.png",
-  "author": "coreyoneal",
+  "author": "corey_o_neal",
   "categories": [
     "Productivity",
     "Media"
+  ],
+  "keywords": [
+    "emoji",
+    "kitchen",
+    "google",
+    "mashup",
+    "sticker",
+    "raycast-extension"
   ],
   "license": "MIT",
   "commands": [
@@ -26,6 +34,8 @@
     "@raycast/eslint-config": "^1.0.8",
     "@types/node": "20.8.10",
     "@types/react": "18.3.3",
+    "eslint": "8.57.1",
+    "prettier": "3.8.1",
     "typescript": "^5.4.5"
   },
   "scripts": {
